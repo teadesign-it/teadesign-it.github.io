@@ -193,6 +193,12 @@ textarea {
   #noname {
     display: none;
   }
+  #parent {
+    display: flex;
+    flex-flow: column;
+  }
+  #a{order:2;}
+  #b{order:1;}
 }
 
 /* contenuti work */
