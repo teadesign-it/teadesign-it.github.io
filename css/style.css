@@ -84,7 +84,8 @@ body {
 }
 
 /* contenuti home */
-.intro {
+
+/* .intro {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -93,6 +94,10 @@ body {
   width: 83%;
   z-index: -1;
   max-width: 825px;
+} */
+
+.intro {
+  padding: 100px 0px 100px 0px;
 }
 
 #hey {
@@ -259,6 +264,7 @@ textarea {
   font-size: 2em;
   border: solid 2px;
   border-radius: 50px;
+  height: 80px;
 }
 
 .coverspics {
